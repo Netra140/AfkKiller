@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"AfkKiller","l":"AfkDoctor"},{"p":"AfkKiller","l":"AfkDoctorLegacy"},{"p":"AfkKiller","l":"AfkKiller"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"AfkKiller","l":"IsKeyPressed"},{"p":"AfkKiller","l":"KillerUI"},{"p":"AfkKiller","l":"Test"},{"p":"AfkKiller","l":"UIReader"}];updateSearchResults();

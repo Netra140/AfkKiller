@@ -1,0 +1,1 @@
+packageSearchIndex = [{"m":"AfkKiller","l":"AfkKiller"},{"l":"All Packages","u":"allpackages-index.html"}];updateSearchResults();

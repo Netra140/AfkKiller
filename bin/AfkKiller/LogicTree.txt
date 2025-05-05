@@ -1,0 +1,14 @@
+while
+	if triggerColor is in bottom right //In Game
+		Trigger regular loop
+	else if Bloodpoints < 7 digits
+		Do loop without the shock
+	else
+		click on killers
+		scroll to designated killer
+		click on designated killer
+		click on bloodweb
+		loop until bloodpoints is 6 digits
+			--OPTIONAL DO LAST find priority 
+		click on killers
+		
